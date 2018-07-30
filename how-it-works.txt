@@ -1,0 +1,10 @@
+---------------------------------
+HOW IT WORKS
+---------------------------------
+
+
+# PROVISION TOKENS TO TOKEN SALE CONTRACT
+# SET A TOKEN PRICE IN WEI
+# ASSIGN AN ADMIN
+# BUY TOKENS
+# END SALE
